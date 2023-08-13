@@ -1,0 +1,9 @@
+#penis{
+    width:5px;
+    height:5px;
+    background-color: fuchsia;
+    border: 7px rgb(60, 255, 0) solid; 
+    padding: 8px ;
+    margin: 0 ;
+}
+body{margin: 0;}
